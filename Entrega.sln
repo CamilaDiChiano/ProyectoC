@@ -5,13 +5,13 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionEntities", "..\SistemaGestionEntities\SistemaGestionEntities.csproj", "{AAD94DDA-4440-47EC-947D-FDF037400EC7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClientUserInterface", "..\AppClientUserInterface\AppClientUserInterface.csproj", "{132F28C9-67FF-491B-B5E7-AEF8607D1F20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClientUserInterface", "..\AppClientUserInterface\AppClientUserInterface.csproj", "{132F28C9-67FF-491B-B5E7-AEF8607D1F20}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClientesEntities", "..\AppClientesEntities\AppClientesEntities.csproj", "{0882D7A1-6AB9-47C4-87DA-B47AF3D68DA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClientesEntities", "..\AppClientesEntities\AppClientesEntities.csproj", "{0882D7A1-6AB9-47C4-87DA-B47AF3D68DA5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClientesData", "..\AppClientes\AppClientesData.csproj", "{5BB9AD38-CA86-4B1C-A2CB-C388675BCD97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClientesData", "..\AppClientes\AppClientesData.csproj", "{5BB9AD38-CA86-4B1C-A2CB-C388675BCD97}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClientesBussiness", "..\AppClientesBussiness\AppClientesBussiness.csproj", "{416D4F07-C74C-4F86-8E2A-A0CF99CB920A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClientesBussiness", "..\AppClientesBussiness\AppClientesBussiness.csproj", "{416D4F07-C74C-4F86-8E2A-A0CF99CB920A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
